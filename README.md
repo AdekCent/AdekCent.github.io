@@ -16,7 +16,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 Here's some words about the book _One Hundred Years..._.
 
-### Links
+## Links
 
 [Search for it.](https://www.google.com)
 
@@ -31,7 +31,7 @@ Well, do I have [the website for you][another fun place]!
 [a fun place]: https://www.zombo.com
 [another fun place]: https://www.penny-arcade.com/
 
-### Pictures
+## Pictures
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
@@ -43,7 +43,7 @@ Well, do I have [the website for you][another fun place]!
 
 [Orange]: https://upload.wikimedia.org/wikipedia/commons/4/4f/Kitty_emoji.png
 
-### Random Stuff
+## Random Stuff
 
 I read this interesting quote the other day:
 
@@ -58,7 +58,7 @@ I read this interesting quote the other day:
 
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: *VIVE L'IRLANDE*!
 
-#### Recipes
+### Recipes
 
 * Flour
 * Cheese
@@ -72,7 +72,7 @@ I read this interesting quote the other day:
 * Chrysanthemum (*Anthemideae Chrysanthemum*)
 * Dahlia (*Coreopsideae Dahlia*)
 
-#### Characters
+### Characters
 
 * Calculus 
   * A professor
@@ -83,7 +83,7 @@ I read this interesting quote the other day:
   * Has white hair
   * Is very famous
 
-#### More Recipes
+### More Recipes
 
 1. Cut the cheese
  
@@ -96,14 +96,14 @@ I read this interesting quote the other day:
  For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
 
-#### Some poems
+### Some poems
 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
 To doubt they were kneeling then 
 
-#### And more recipes
+### And more recipes
 
 1. Crack three eggs over a bowl.  
  Now, you're going to want to crack the eggs in such a way that you don't make a mess.  
