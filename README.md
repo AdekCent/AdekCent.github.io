@@ -72,7 +72,7 @@ I read this interesting quote the other day:
 * Chrysanthemum (*Anthemideae Chrysanthemum*)
 * Dahlia (*Coreopsideae Dahlia*)
 
- #### Characters
+#### Characters
 
 * Calculus 
   * A professor
