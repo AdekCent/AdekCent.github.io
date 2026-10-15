@@ -71,13 +71,13 @@ I read this interesting quote the other day:
 * Dahlia (*Coreopsideae Dahlia*)
 
 * Calculus 
- * A professor
- * Has no hair
- * Often wears green
+  * A professor
+  * Has no hair
+  * Often wears green
 * Castafiore
- * An opera singer
- * Has white hair
- * Is very famous
+  * An opera singer
+  * Has white hair
+  * Is very famous
 
 1. Cut the cheese
  
