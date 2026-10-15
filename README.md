@@ -68,6 +68,8 @@ I read this interesting quote the other day:
 2. Slice the tomatoes
 3. Rub the tomatoes in flour
 
+### Plants
+
 * Azalea (*Ericaceae Rhododendron*)
 * Chrysanthemum (*Anthemideae Chrysanthemum*)
 * Dahlia (*Coreopsideae Dahlia*)
