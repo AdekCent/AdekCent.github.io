@@ -1,9 +1,9 @@
 # MARKDOWN TUTORIAL GITHUB PAGE
 
-Writing in Markdown is _not_ that hard!
-I **will** complete these lessons!
-"*Of course*," she whispered. Then, she shouted: "All I need is **a little moxie**!"
-If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
+Writing in Markdown is _not_ that hard!  
+I **will** complete these lessons!  
+"*Of course*," she whispered. Then, she shouted: "All I need is **a little moxie**!"  
+If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right. 
 
 # Header one
 ## Header two
